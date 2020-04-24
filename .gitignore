@@ -1,3 +1,5 @@
 /Cucumber/Screenshots/
 
 /Cucumber/test-output/
+/Cucumber/target/test-classes/
+/Cucumber/target/
